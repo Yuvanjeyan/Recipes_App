@@ -15,6 +15,7 @@ A simple beginner-friendly CRUD API for managing recipes using Node.js, Express.
 ```text
 .
 |-- app.js
+|-- server.js
 |-- config/
 |   `-- db.js
 |-- controllers/
@@ -210,3 +211,8 @@ Use Postman manually to send requests to the API.
 ## Error Handling
 
 The API returns simple JSON error messages for invalid IDs, missing routes, validation errors, duplicate titles, and server errors.
+
+
+## Click the below link
+ - https://recipes-app-qhsv.onrender.com/
+ - https://recipes-app-qhsv.onrender.com/api/recipes
